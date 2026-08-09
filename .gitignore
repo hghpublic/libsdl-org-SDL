@@ -67,7 +67,7 @@ xcuserdata
 Xcode/build.xcconfig
 
 # for Visual Studio Code
-.vscode/
+# .vscode/
 
 # for Visual C++
 .vs
